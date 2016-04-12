@@ -1,0 +1,10 @@
+# node modules installed by npm
+npm-debug.log
+node_modules
+backup
+#bower components installed by bower
+bower_components
+
+#dummy data
+dummy.jade
+.idea/
